@@ -1,5 +1,5 @@
 # Zachary Sutton
-#### I'm a software engineering student at Florida Gulf Coast University 
+#### I'm a Software Engineer with experience in full stack development
 
 <!--
 **zesutton2619/zesutton2619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
