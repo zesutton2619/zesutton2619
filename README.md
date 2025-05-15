@@ -10,4 +10,4 @@
 
 - 📫 How to reach me: </br>
   LinkedIn: https://www.linkedin.com/in/zachary-sutton-1648b9227 </br>
-  Email: zesutton2619@eagle.fgcu.edu
+  Email: zachary.sutton001@gmail.com
